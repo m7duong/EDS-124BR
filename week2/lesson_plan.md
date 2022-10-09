@@ -1,3 +1,3 @@
 # Example Code Explanation - Repeats 
 
-[Link of video](https://youtu.be/D_qCJl16hVk)
+[Link of video](https://youtu.be/OLWpbO8HBc0)

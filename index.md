@@ -1,3 +1,7 @@
-# Show What You Know: Write and Explain A Program
+# Introduction
 
-[Explanation](https://youtu.be/iarRoe2hmQY)
+Hello, my name is Minh Nhat Duong. Here is my Teaching Portfolio web resource.
+
+[Week 2](https://m7duong.github.io/EDS-124BR/week2/lesson_plan.html)
+
+

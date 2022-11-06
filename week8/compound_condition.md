@@ -1,3 +1,3 @@
 # Compound condition in program
 
-[Video]()
+[Video](https://youtu.be/CXZnvJ0wp34)

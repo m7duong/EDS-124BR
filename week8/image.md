@@ -1,5 +1,5 @@
-![Image 1](1.JPG)
+<img src="1.JPG" alt="1" width="800"/>
 
-![Image 2](2.JPG)
+<img src="2.JPG" alt="2" width="800"/>
 
-![Image 3](3.JPG)
+<img src="3.JPG" alt="3" width="800"/>

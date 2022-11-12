@@ -17,3 +17,5 @@ Hello, my name is Minh Nhat Duong. Here is my Teaching Portfolio web resource.
 [Week 8](https://m7duong.github.io/EDS-124BR/week8/image.html)
 
 [Week 9](https://m7duong.github.io/EDS-124BR/week9/abstraction.html)
+
+[Week 10](https://m7duong.github.io/EDS-124BR/week10/list.html)

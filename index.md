@@ -13,3 +13,7 @@ Hello, my name is Minh Nhat Duong. Here is my Teaching Portfolio web resource.
 [Week 6](https://m7duong.github.io/EDS-124BR/week6/condition.html)
 
 [Week 7](https://m7duong.github.io/EDS-124BR/week7/nested_if_else.html)
+
+[Week 8](https://m7duong.github.io/EDS-124BR/week8/image.html)
+
+[Week 9](https://m7duong.github.io/EDS-124BR/week9/abstraction.html)
